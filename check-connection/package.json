@@ -1,12 +1,20 @@
 {
   "name": "check-connection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "react hook to check connection status",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shankariyerr/custom-hooks.git"
+  },
+  "author": "shankariyerr (https://github.com/shankariyerr)",
+  "bugs": {
+    "url": "https://github.com/shankariyerr/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/shankariyerr/custom-hooks/tree/master/check-connection",
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.8.0",
