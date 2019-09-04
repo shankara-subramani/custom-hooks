@@ -1,6 +1,6 @@
 {
   "name": "check-connection",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "react hook to check connection status",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
   }
 }
