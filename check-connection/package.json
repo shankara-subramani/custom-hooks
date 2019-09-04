@@ -1,6 +1,6 @@
 {
   "name": "check-connection",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "react hook to check connection status",
   "main": "index.js",
   "scripts": {
